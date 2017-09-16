@@ -1,0 +1,3 @@
+ALTER TABLE `v2_ads`
+  ADD `action_buttons` ENUM('Apply Now','Bet Now','Book Now','Buy Now','Compare','Contact Us','Directions','Donate Now','Download','Enroll Now','Follow Now','Get App','Get Coupon','Get Now','Get Offer','Get Quote','Get Rates','Get Sample','Install','Join Now','Launch','Learn More','Listen Now','Play Now','Play Game','Read More','Record Now','Register','Remind Me','Save Now','Sell Now','Shop Now','Sign Up','Subscribe','Try Now','Use App','Vote Now','Watch Now','Watch More') CHARACTER SET utf8 COLLATE utf8_general_ci
+  NULL DEFAULT NULL AFTER `tumblr_post_url`;

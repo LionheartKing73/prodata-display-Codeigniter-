@@ -1,0 +1,1 @@
+<img src="<?= $creative_url ?>" alt="">

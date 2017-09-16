@@ -1,0 +1,10 @@
+/nbproject/private/
+/uploads/
+/application/cache/
+/application/third_party/predis/
+/application/third_party/predis-bk/
+/.idea/
+/v2/pdf/
+/v2/images/domain_logos/
+/application/cache/smarty/compiled/
+/logs/*

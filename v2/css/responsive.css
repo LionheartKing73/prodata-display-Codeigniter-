@@ -1,0 +1,344 @@
+@charset "utf-8";
+
+/* ================================================================================= */
+
+/* 							Responsive CSS styling for theme					     */
+
+/* ================================================================================= */
+
+@media only screen and (max-width: 1280px) {
+    .theme-section-narrow-title, .theme-innerpage-banner-caption p {
+        max-width: 100%;
+    }
+}
+@media only screen and (max-width: 992px) {
+    .theme-row {
+        margin: 0 0;
+    }
+    .theme-digital-reporting-section .theme-two-col {
+        display: block;
+        width: 100%;
+        text-align: center;
+    }
+    .theme-absolute-imageholder {
+        padding-top: 40px;
+    }
+    .theme-absolute-imageholder > figure > img {
+        position: static;
+    }
+    .theme-header-row {
+        position: relative;
+    }
+    .theme-row > [class*="theme-"] {
+        padding-right: 0;
+        padding-left: 0;
+    }
+    .theme-nav-wrap {
+        position: static;
+        width: 75%;
+        vertical-align: middle;
+    }
+	.navbar-toggle .icon-bar {
+        background: #ffffff;
+        height: 3px;
+    }
+    .navbar-collapse {
+        /*position: absolute;*/
+        right: 0;
+        top: 100%;
+        left: 0;
+        /*background: #69951b;*/
+        z-index: 999;
+        width: 100%;
+        overflow-y: hidden !important;
+    }
+    .theme-navbar-header {
+        height: 17px;
+    }
+    .theme-main-nav > li {
+        display: block;
+        border-bottom: 2px solid #628c18;
+        text-align: center;
+    }
+    .theme-main-nav > li:last-of-type {
+        border-bottom: 0;
+    }
+    .theme-main-nav > li > a {
+        display: inline-block;
+        padding: 20px 0;
+        font-size: 15px;
+    }
+    .theme-main-nav > li > a:hover {
+        color: #006396;
+    }
+    .theme-header-fullwidth-row {
+        display: inline-block;
+        margin-right: 18px;
+        margin-bottom: 0;
+        width: 100%;
+        max-width: 125px;
+        vertical-align: middle;
+    }
+    .theme-navbar {
+        display: inline-block;
+        vertical-align: middle;
+    }
+    .theme-logo-wrap {
+        width: 45%;
+        vertical-align: middle;
+    }
+    .theme-logo-wrap figure img {
+        width: 220px;
+    }
+    .theme-signup-btn, .theme-main-slider-content .theme-signup-btn {
+        padding: 20px 20px;
+    }
+    .theme-sticky-header.theme-fixed-header .theme-logo-wrap figure img {
+        width: 190px;
+    }
+    .theme-three-col {
+        padding-bottom: 50px;
+    }
+    .theme-three-col:last-of-type, .theme-three-col:nth-of-type(-2) {
+        padding-bottom: 0;
+    }
+    .theme-innerpage-banner-image-wrap {
+        top: 130px;
+    }
+    .theme-digital-roftop-caption {
+        top: 100px;
+    }
+    .theme-contactus-banner {
+        min-height: 285px;
+    }
+    .theme-contactus-form-wrap.theme-eight-col, .theme-contactus-sidebar-wrap.theme-four-col, .theme-submit-group {
+        width: 100%;
+        text-align: center;
+    }
+    .theme-contactus-sidebar-wrap.theme-four-col {
+        padding-top: 40px;
+    }
+    .theme-report-nav-tabs li > a {
+        min-height: 80px;
+    }
+    .theme-report-nav-tabs li.active > a {
+        margin-bottom: -4px;
+    }
+    .theme-ad-creative-row .theme-two-col {
+        display: block;
+        padding: 0;
+        padding-left: 0 !important;
+        width: 100%;
+    }
+    .theme-ad-banner-content .theme-ad-logo-col {
+        width: 18%;
+    }
+    .theme-ad-banner-content .theme-ad-desc-col {
+        width: 82%;
+    }
+    .theme-ad-creative-row .theme-two-col:not(:last-of-type) {
+        margin-bottom: 50px;
+    }
+}
+
+@media only screen and (max-width: 767px) {
+    .theme-no-gutter > [class*="theme-"], .theme-inlineform-group, .theme-inline-group label, .theme-inline-group input[type="text"], .theme-inline-group select {
+        display: block !important;
+        width: 100% !important;
+        text-align: center;
+    }
+    .theme-no-gutter > [class*="theme-"]:not(:last-of-type), .theme-three-col:not(:last-of-type) {
+        padding-bottom: 50px;
+    }
+    .theme-slider-caption, .theme-contactus-page-caption, .theme-emailval-page-caption {
+        padding-top: 120px;
+    }
+    .theme-main-slider-content h1, .theme-innerpage-banner-caption h1 {
+        font-size: 36px;
+    }
+    .theme-main-slider-content p {
+        margin: 15px 0;
+        font-size: 20px;
+    }
+    .theme-banner-large-btn-row > a, .theme-banner-large-btn-row > a.theme-startup-btn {
+        padding: 20px 16px;
+    }
+    .theme-sticky-header.theme-fixed-header .theme-logo-wrap figure img {
+        width: 150px;
+    }
+    .theme-col-content h4 {
+        margin: 35px 0 20px;
+    }
+    .theme-colphon {
+        padding-bottom: 35px;
+    }
+    .theme-footer-list-wrap ul li > a, li.theme-footer-copyright-info {
+        padding: 0 13px;
+    }
+    .theme-digital-roftop-banner {
+        min-height: 540px;
+    }
+    .theme-form-control {
+        padding: 20px 20px;
+        font-size: 18px;
+    }
+    .theme-absolute-imageholder {
+        padding:  0 0;
+    }
+    .theme-gelocation-from-row > .theme-no-gutter > [class*="theme-"]:first-of-type, .theme-gelocation-from-row > .theme-no-gutter > [class*="theme-"]:last-of-type {
+        padding-right: 0 !important;
+        padding-left: 0 !important;
+    }
+    .theme-geofrom-selectbox, .theme-bordered-legend {
+        padding: 15px 8px !important;
+    }
+    .theme-inlineform-group:not(:last-of-type), .theme-inline-group:not(:last-of-type) label {
+        margin-bottom: 10px;
+    }
+    .theme-report-nav-tabs li, .theme-report-nav-tabs li.active {
+        display: block;
+        padding-right: 0;
+        margin-bottom: 0;
+        width: 100%;
+        min-height: 0;
+    }
+    .theme-report-nav-tabs li > a {
+        margin-bottom: 0 !important;
+        min-height: 0;
+        border-bottom: 0 !important;
+        border-radius: 0;
+    }
+    .theme-report-nav-tabs {
+        table-layout: inherit;
+    }
+    .theme-inline-group label {
+        margin-bottom: 10px;
+    }
+    .theme-form-legend .theme-form-half-col {
+        margin-bottom: 20px;
+        margin-left: 0 !important;
+    }
+    input, .theme-inline-group textarea {
+        margin-right: 0 !important;
+        margin-left: 0 !important;
+        width: 100% !important;
+        max-width: 100% !important;
+    }
+    .theme-geoform-group.theme-submit-group input[type="reset"], a.theme-back-btn {
+        margin-right: 0 !important;
+        margin-left: 0 !important;
+        margin-bottom: 15px;
+        max-width: 100%;
+    }
+
+    .theme-ad-creative-row .theme-two-col:not(:last-of-type) {
+        margin-bottom: 50px;
+        padding-left: 0;
+        padding-right: 0;
+    }
+
+    .theme-create-ad-form-wrap, .theme-scrollable-ad-wrap {
+        padding: 0;
+    }
+    .theme-report-campaigne-schedule-row, .theme-report-campaign-list-row, .theme-report-content {
+        padding-right: 10px;
+        padding-left: 10px;
+        padding-top: 30px;
+        padding-bottom: 30px;
+    }
+    .theme-ad-banner-subrow:last-of-type {
+        border: 0;
+    }
+    .theme-ad-banner-subrow h1, .theme-ad-banner-subrow .theme-banner-row-title {
+        left: 0;
+    }
+    .theme-ad-action-btn-group {
+        position: relative;
+        margin-top: 10px;
+    }
+    .theme-report-tab-content > h1 {
+        text-align: center;
+    }
+
+    .theme-ad-logo-col figure img {
+        position: relative;
+    }
+    .theme-reportpage-sidebar-content {
+        padding-right: 10px !important;
+        padding-left: 10px !important;
+    }
+}
+@media only screen and (max-width: 480px) {
+    .theme-header-button-wrap > a, .theme-header-button-wrap a.theme-login-btn {
+        padding: 6px 10px;
+        max-width: 100px;
+        border: 2px solid #95c03d;
+        font-size: 14px;
+    }
+    .theme-slider-caption, .theme-contactus-page-caption, .theme-emailval-page-caption {
+        padding-top: 90px;
+    }
+    .theme-no-gutter > [class*="theme-"]:not(:last-of-type), .theme-three-col:not(:last-of-type) {
+        padding-bottom: 30px;
+    }
+    .theme-sticky-header.theme-fixed-header .theme-logo-wrap figure img {
+        width: 100px;
+    }
+    .theme-form-control {
+        padding: 15px 20px;
+        font-size: 16px;
+    }
+    .theme-pricing-table-item > span {
+        padding: 20px 5px;
+        font-size: 15px;
+    }
+    .theme-geoform-group.theme-submit-group input {
+        display: block;
+        width: 100%;
+    }
+    .theme-geoform-group.theme-submit-group .theme-submit-control:not(:last-of-type) {
+        margin-bottom: 10px;
+    }
+    .theme-report-nav-tabs li > a {
+        padding: 15px 5px;
+    }
+    .theme-ad-banner-content > [class*="theme-"] {
+        display: block !important;
+        width: 100% !important;
+    }
+    .theme-ad-logo-col figure img {
+        position: relative;
+    }
+}
+@media screen and (max-device-width: 480px) {
+	
+}
+@media only screen and (min-width: 767px) and (max-width: 992px) {
+	
+}
+@media only screen and (min-width: 993px) and (max-width: 1280px) {
+    
+	
+}
+@media only screen and (min-width: 1100px) and (max-width: 1280px) {
+    .theme-main-nav > li > a {
+        padding: 0 19px;
+    }
+}
+@media only screen and (min-width: 993px) and (max-width: 1100px) {
+    .theme-main-nav > li > a {
+        padding: 0 11px;
+    }
+}
+@media only screen and (min-width: 1281px) and (max-width: 1440px) {
+
+}
+@media only screen and (min-width: 1441px) and (max-width: 1680px) {
+	
+}
+@media only screen and (min-width: 1441px) and (max-width: 1600px) {
+
+}
+@media only screen and (min-width: 1281px) and (max-width: 1680px) {
+
+}

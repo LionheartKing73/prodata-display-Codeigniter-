@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "adx-testing-project",
+  "private_key_id": "64843236e5a4fc5a18d185f0aa491882862f86ec",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDuErex+YyWLjbC\n/AcgALPgJpNAHaUMtOToeZ2EoicFXmByXyU+NqkKYThC80sWalv4h8ZSBt9bD9JE\nW7yWzD0F9mhtl8fNlfUB7Zaj0evpsUH1GXl96HyRwmWu16PkiZlOpbx+mWq/CYME\ntOnFiEBIK1YVjQ4wBF+ynZx8GBl+BvplOAS39c+enLkVmVathmk+p71SSG19aB9v\nd1qzzHwf7liiop2l6zUXnm/0Jx0v7wyqS4R7bgTl6E6nPC5t0EGYepaXIykSiMMr\nOTRAsEBUZJrSdN7RUbuXnNj3Yw6xvOYw4V3rQVRETap5bDXRisY42MSLVQ6Pmi4k\nAD1VzAozAgMBAAECggEAFemDHs5pMiluwOORhFCMPcVPKEeSOWks6HjJFrwV+1iE\naAJ52xAM3vezxfW+o4GGlYlpp4Maa7c5EzGeWgLSWwoi8nNV4IY81sCXbNyVahz2\nhSijFgOf84qA8WbHnvFLOwHmJ4DXYl3twTElkxjHUd0rPzCMbb75T+dRz9on/oFY\nd/OMkF6ZSd0Fc2bpjtlTbGTJLnDypqv+ABCoafSOWK1s0u1pMoG8v6+EM69JVZsM\n/bhQWlnha/UbIIyjqJ5Zes5jKSkQos7qCgSd1zK972vnJpVJmjx8wuAFfUa35APZ\nB/43cpstsXdiPLQYVuI725WHfCORJwR0b2FyXJ2/AQKBgQD5nvBaIbRP+cEVqgjd\ntHsYnpuM76hQQR6scMQ/gs0QNSFETJjA2yzItX5ag/pe/LAImSJnVeYL/LS70St4\nBnA1vGGyCxPzE7+QI4ogKc+2eD+wLgJFjohXGFkw94Ika7tXkBhiz8k2aMijHqYP\n7QwWb98ZQP/9gc7ThpPf9u3p2QKBgQD0KDtAfVYjnR7kly12AxuD/WhNcn4dl1Yn\nG/SdHhzyfEvTz9UPuU27xWymnjOo8TFTJKC1I70eArpnIyWVliThXtGt5zYuBZhx\nH4Htj7jvn/h/7UGzFbYVE27CmNMdbOR7ypQKAumBI/ZFpzzEUrsBXPK/l0Y+Gcd5\nAln04T1g6wKBgQC3TweUONIQNQmdHiu6m/IVp0v1mH0Sym97FKiZNzXd5BZU8Kbw\nYUOm9NkgIXE4VfnzpnkER6lTPjV/A2EXmCrI21knBUmWJPd1IxQpAGtfxTiH6ZGT\ngNMQmnnNIsV4d4CxEclGru5FPXexii1K3roUs/yyr/ANO0kmPtrTCqO2KQKBgGCK\nz/MOHFN0u1R0GrvBOs4UE3wcO5YD00MfoLfHwnZ3g5w7X+oZwYzv4ah4gcDZrkFM\nCGfXu930AjTqBuCBQBAFaC+1bwz/lWmVpdCDtgK6ZI5hCEuB2D+5MWCtAT1vY2E3\nlxXmVOKFj8m2+SY/+EXvtOThMhs4IlHNBjj4H0cFAoGAS6xEzGrSp+nAgcbZLrTn\nCWnDPemrhf6HK+vcK72ob/PVt2CZiATtXFMIXk3AnOAaO7Fuk2NcUTLhbZBvIQM8\n4qpPXGi+MwAlX2ipfrgQYGoHci696Q5SIvp8pZSjqHmRDIbOERL/6pcBc/VlzC9n\nD7zcMPtuYckIMs380GcwEys=\n-----END PRIVATE KEY-----\n",
+  "client_email": "prodata-creative-validation@adx-testing-project.iam.gserviceaccount.com",
+  "client_id": "107038838273737363255",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/prodata-creative-validation%40adx-testing-project.iam.gserviceaccount.com"
+}

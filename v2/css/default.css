@@ -1,0 +1,94 @@
+/*from line 1850*/
+footer {
+    background-color: #7FBE27;
+}
+
+body {
+    background: #084D8E;
+}
+
+.theme-submit-group .theme-submit-control, .theme-tabbed-form-submit, .theme-back-btn, .theme-ad-save.theme-submit-control {
+    display: inline-block;
+    margin-left: 5px;
+    padding: 11px 10px;
+    width: 100%;
+    max-width: 180px;
+    /*background: #0ac053;*/
+    background: #7DBB28;
+    border: 2px solid #7DBB28;
+    border-radius: 3px;
+    font-size: 15px;
+    color: #ffffff;
+    text-align: center !important;
+    text-transform: uppercase;
+}
+
+button.btn.btn-success.pull-right,
+a.btn.btn-success.btn-create-campaign {
+    background-color: #7dbc28 !important;
+}
+
+.btn_next_step {
+    border: 1px solid #4abc40;
+    background: #4abc40;
+}
+
+
+.btn_previous_step {
+    background: #d0d0d0;
+    border: 1px solid #d0d0d0;
+}
+
+.btn_next_step:hover {
+    color:#4abc40;
+}
+
+.btn_previous_step:hover {
+    color:#d0d0d0;
+}
+
+.theme-submit-group .theme-create-add-btn:hover {
+    color: #46b3f2;
+}
+
+.user-info button.btn-info,
+.card-info button.btn-info,
+.pass-info  button.btn-info,
+.createviewer-info button.btn-info,
+.manageAccess-info button.btn-info {
+    background-color: #39afd2;
+}
+
+.campaign-progress .btn-success{
+    background-color: #7dbc28;
+    border-color: #7dbc28;
+}
+
+.campaign-progress .btn-success:hover,
+.campaign-progress .btn-success:active,
+.campaign-progress .btn-success:focus{
+    background-color: #6fa724;
+    border-color: #6fa724;
+}
+
+.geoloc-button button.btn-info,
+.addBudget-button button.btn-info,
+.edit-date-button button.btn-info,
+.start-date-button button.btn-info {
+    background: #004789;
+    border-color: #004789;
+}
+
+.news-feed .addButton .btn-success{
+    background: #7DBC28 !important;
+
+}
+
+#addNewList .modal-footer .btn-primary{
+    background: #004789;
+}
+
+.addKeyword button.btn-info{
+    background: #7DBC28;
+    border-color: #7DBC28;
+}
